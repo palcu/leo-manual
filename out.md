@@ -1,7 +1,6 @@
-<html><head><meta charset="utf-8"></head><body>
 # Manual Leo
+
 <h2 id=project"2">Concurs cu postere pentru promovarea pacii</h2>
-Concurs de arta (pictat si colorat) cu teme despre pace pentru a sustine si a promova pacea, tintele fiind copiii cu varste cuprinse intre 11 si 13 ani.
 
 ### Obiective
 Promovarea pacii; aceasta este sustinuta de Natiunile Unite si de Lions International Clubs; aceasta activitate, de asemenea, ne permite sa gasim noi membri voluntari non-Leo.
@@ -31,7 +30,6 @@ Ana Maria Popa
 ### Data
 9/25/2012 13:18:48
 <h2 id=project"3">Atelier Leo-Lions</h2>
-Aceasta actiune are loc o data pe an, pe durata primei sedinte de consiliu, toamna. Leo si Lions se intalnesc pentru o jumatate de zi si discuta in grupuri diferite teme actuale( Imbunatatirea relatiei dintre Leo si Lions, recrutarea membrilor, etc.). In mod normal, participantii sunt separati in 3 grupuri si ca urmare a unui principiu de rotatie fiecare Leo/Lions are sansa sa participe in fiecare atelier. Atelierul a devenit o platforma valoroasa pentru comunicarea ideilor si imbunatatirea relatiei dintre Leo si Lions. Aceasta actiune poate fi facuta pe o baza nationala sau pe una de club.
 
 ### Obiective
 Imbunatatirea relatiei dintre Leo si Lions
@@ -54,7 +52,6 @@ Ana Maria Popa
 ### Data
 9/25/2012 13:55:11
 <h2 id=project"4">Copiii Lumii</h2>
-Aceasta activitate este un proiect comun cu Lionsin care strângem fonduri care se duc direct catre caritate. Ne pozitionam la un mall, unde multi oameni trec zilnic.
 
 ### Obiective
 Strângerea de fonduri pentru caritate, ajutorarea copiilorin privinta sanatatii, educatiei, unui viitor mai bun.
@@ -77,7 +74,6 @@ Rosu stefan
 ### Data
 9/26/2012 13:06:18
 <h2 id=project"5">Chioscul cu vin fiert</h2>
-Proiectul constain instalarea unui butic de lemnin centrul orasului Biella, unde vinul fiert si alte bauturi calde sunt servitein perioada Craciunului (inclusiv Ajunul)in schimbul donatiilor de la trecatori. Acest serviciu este oferit comunitatii de membrii Leo Club Biellainca din 1987.
 
 ### Obiective
 Are scopul de a oferi o bautura calda si un zâmbet locuitorilor, strângând totodata fonduri pentru bugetul anual al clubului
@@ -100,7 +96,6 @@ Rosu stefan
 ### Data
 9/26/2012 13:19:47
 <h2 id=project"6">Târgul de carti pentru copii</h2>
-În cadrul acestei activitati, carti pentru copii au fost vânduteintr-un stand, pe strada. Proiectul a fost desfasurat cu ocazia Zilei Internationale a Copiluluiin septembrie si a fostin comun cu Lions Club Koblenz.
 
 ### Obiective
 Renovarea curtii unei scoliin Diesterweg-Förderschule, TKoblenz.
@@ -123,7 +118,6 @@ Rosu stefan
 ### Data
 9/26/2012 13:31:57
 <h2 id=project"7">Vizita la ZOO</h2>
-Vizita la gradina zoologica organizata pentru copii cu posibilitaţi materiale reduse. Leo a asigurat transportul şi ainsoţit copiii prin ZOO.
 
 ### Obiective
 O zi mai frumoasa pentru copiii saraci.
@@ -147,7 +141,6 @@ Silviu V
 ### Data
 9/26/2012 13:32:42
 <h2 id=project"8">Noaptea Cazinoului Leo</h2>
-Clubul Leo Kassel organizeaza o noapte caritabila la cazino pentru a colecta donații pentru un Spielmobiel ( autobuz cu jucarii ). Membri Lions, membri ai altor cluburi de caritate, demnitari, VIP-uri si membri Leo au fost invitați sa joace pentru o cauza nobila. Proiect comun cu Spielmobiel Rote Rübe e.V., Kassel.
 
 ### Obiective
 Pentru a strânge bani pentru Spielmobiel Rote Rübe e.V., organizatorii le-au explicat copiilor dreptul lor de decizie. Totodata, s-a urmarit si atragerea atentiei pentru Leo si Spielmobiel Rote Rübe e.V.
@@ -170,7 +163,6 @@ Rosu stefan
 ### Data
 9/26/2012 14:56:23
 <h2 id=project"9">Duel culinar Leoin Aachen</h2>
-E un concurs de gatit pentru echipe de câte 4 oameni. Retetele de baza, ingrediente, echipament si locatia desfasurarii sunt sponsorizate de Frankenberg GmbH ( furnizor pentru catering pe rute aeriene ).in cadrul acestei competitii, un program extensiv este organizat, care constain petreceri, turul orasului, jocuri distractive, vizite la companii si cina cu program de divertisment si ceremonie de premiere. Activitatea se petrece cu sprijinul si colaborarea Frankenberg GmbH, Lions Clubs, Rotaract Club Aachen, Johanniter Aachen.
 
 ### Obiective
 Promovarea Leo Clubs, atragerea de noi membri
@@ -194,7 +186,6 @@ Rosu stefan
 ### Data
 9/26/2012 15:29:34
 <h2 id=project"10">Oua de Pasti</h2>
-Membrii Leo construiesc o piramida de 1,80 metri, alcatuita din 12.000 de oua de Pasti pictateintr-un mall, cu scopul de a vinde ouale pentru o cauza nobila. Activitate comuna cu Lions Club Weil am Rhein.
 
 ### Obiective
 Strângerea de fonduri pentru o vacanta pe vapor pentru oameni cu dizabilitati.
@@ -217,7 +208,6 @@ Rosu stefan
 ### Data
 9/26/2012 18:26:49
 <h2 id=project"11">Recunostiinta pentru daruire</h2>
-Activitatea ia locin 12 restaurante. Ideea este ca oamenii care le frecventeazain timpul pauzei de masa de la prânz sa plateasca 1 Euro mai mult pentru un anumit meniu si banii strânsi astfel sa fie folositi ca o donatie pentru un câine utilitar. Dresajul unui câine utilitar costa 25000 Euro. Este o activitate comuna cu Lions Club Eschenheimer Turm.
 
 ### Obiective
 Strângerea de donatii pentru a antrena un câine utilitar pentru un baiat de 7 ani, care a fost imobilizatintr-un scaun cu rotileinca de la nastere.
@@ -241,7 +231,6 @@ Rosu stefan
 ### Data
 9/26/2012 18:47:25
 <h2 id=project"12">Leo Lions Action Day (LLAD)</h2>
-Activitatea la nivel national ia loc o data pe an,in mai,in sâmbata dinaintea zilei Mamei. Membrii Leo din Austria conlucreaza cu Clubul Lions si colecteaza produse neperisabile si de igienaintr-un lant de supermarketuri. Clientii sunt rugati sa cumpere un produsin plus, pe care sail doneze. Aceste produse sunt ulterior livrate catre familii din zona sau catre organizatii caritabile ( adaposturi, azile etc.).in aceasta zi, bunuri cu o valoare de aproximativ 300.000 Euro sunt colectate anual. Este o activitate care poate fi usor preluata si la nivel de club.
 
 ### Obiective
 Sa se colecteze o data pe an produse neperisabile pentru oamenii nevoiasi.
@@ -264,7 +253,6 @@ Rosu stefan
 ### Data
 9/26/2012 18:56:54
 <h2 id=project"13">Strângerea de produse de igiena</h2>
-Se face ointelegere cu magazine mai mari astfelincât sa se poata plasa unul sau doua cosuri de cumparaturiintr-o zona vizibila ( cel mai binein apropierea caselor de marcat). Lânga cosuri ( sau pe ele) scriem ceea ce dorim sa colectam ( cel mai bine e sa se scrie exact produsele necesare cum ar fi: deodorant, sampon, etc.) si pentru cine ( Centrul deingrijire "nume/oras").in loc de simpla lasare a cosurilorin magazin, doi sau mai multi membri Leo pot fi prezenti acolo ( poate pentru o saptamâna,in fiecare zi altcineva) si sa explice oamenilor cine sunt si care este scopul lor.
 
 ### Obiective
 Colectarea si donarea produselor de igiena pentru centre deingrijire materna.
@@ -288,7 +276,6 @@ Rosu stefan
 ### Data
 9/26/2012 19:09:08
 <h2 id=project"14">“Copiii, la scoala!”(“Lapsed kooli!”)</h2>
-De-a lungul unei saptamâni, membrii Leo strâng rechizitein supermarkete, pentru a le dona Asociatiei Familiilor Numeroase ( 4 sau mai multi copiiin familie).
 
 ### Obiective
 Ajutarea familiilor mari lainceputul anului scolar cu rechizite.
@@ -312,7 +299,6 @@ Rosu stefan
 ### Data
 9/26/2012 19:18:16
 <h2 id=project"15">Pachete de Ramadan</h2>
-Leo pregateste pachete cu mâncare care sunt distribuite familiilor nevoiase din zonele rurale
 
 ### Obiective
 Sa asigure un pic de hranain plus familiilor nevoiase.
@@ -336,7 +322,6 @@ Silviu V
 ### Data
 10/1/2012 21:05:34
 <h2 id=project"16">Distribuirea de pachete de Ramadan</h2>
-Leo distribuie pachete cu mâncare familiilor din zonele rurale. Sunt distribuite in medie 500 de pachete, fiecare având cam 15 kilograme.
 
 ### Obiective
 Ajutorarea familiilor din zonele rurale.
@@ -360,7 +345,6 @@ Silviu V
 ### Data
 10/1/2012 21:20:35
 <h2 id=project"17">Vizitarea orfanilor</h2>
-Leo viziteaza orfelinate si distribuie biscuiti, sucuri si dulciuri copiilor. Organizeaza jocuriimpreuna cu copiii si socializeaza cu ei.
 
 ### Obiective
 Leo viziteaza orfelinate pentru a se juca cu copiii si pentru a le aduce un zâmbet pe fata.
@@ -386,7 +370,6 @@ Silviu V
 ### Data
 10/1/2012 22:09:10
 <h2 id=project"18">O iesire de o zi cu orfani</h2>
-Leo pregateste o zi speciala pentru orfani. Un fel de zi de carnaval pentru copii. Leo pregatesc jocuri pentru copii, le organizeaza petreceri, le aduc produse alimentare etc.
 
 ### Obiective
 Leoincearca sa aduca un zâmbet pe fata copiilor orfani, jucându-se cu ei siinvatându-i noi experiente.
@@ -410,7 +393,6 @@ Silviu V
 ### Data
 10/1/2012 22:27:11
 <h2 id=project"19">Vizite la batrâni</h2>
-Leo pregateste vizite la batrâni. Câteodata este vorba despre socializareintre Leo si batrâni, iar altadata Leo aduce jocuri si se joacaimpreuna cu batrânii.
 
 ### Obiective
 Petrecerea timpului liberimpreuna cu batrânii.
@@ -437,7 +419,6 @@ Silviu V
 ### Data
 10/1/2012 22:33:30
 <h2 id=project"20">Vãzul pe primul loc</h2>
-Leo ia copii de la orfelinate si ii duce la oftalmolog pentru o consultatie. Leo asigura ochelarii si picaturile de ochi, daca e nevoie.
 
 ### Obiective
 Sprijinul orfanilor cu deficiente de vedere.
@@ -463,7 +444,6 @@ Silviu V
 ### Data
 10/2/2012 1:03:11
 <h2 id=project"21">Caravana medicala</h2>
-Leo organizeaza un proiect pentru consultarea si tratamentul medical al oamenilor nevoiasi din zonele rurale.
 
 ### Obiective
 Oferirea de ajutor medicalin zonele rurale.
@@ -487,7 +467,6 @@ Silviu V
 ### Data
 10/2/2012 1:13:43
 <h2 id=project"22">Constructia unei casein Alpi</h2>
-Leo ajuta la constructia unei parti dintr-o ferma din Alpi. Activitatea se desfasoarain colaborare cu Lions.
 
 ### Obiective
 Sprijin pentru constrctia unei parti dintr-o ferma din Alpi.
@@ -510,7 +489,6 @@ Silviu V
 ### Data
 10/2/2012 1:21:12
 <h2 id=project"23">Pachete de Ramadan</h2>
-Leo pregatesc pachete de mâncare şi le distribuiein zone rurale catre familii nevoiaşe.
 
 ### Obiective
 Sa ajute familiile cu mâncare
@@ -535,7 +513,6 @@ Vlad
 ### Data
 10/3/2012 13:05:00
 <h2 id=project"24">Distribuirea pachetelor de Ramadan</h2>
-Leo distribuie pachetele de mâncare familiilor nevoiaşe din zonele rurale. Numarul mediu de pachete este 500, fiecare având aproximativ 15 kg.
 
 ### Obiective
 Distribuirea pachetelor gata pregatite catre familiile nevoiaşe
@@ -560,7 +537,6 @@ Vlad
 ### Data
 10/3/2012 13:10:08
 <h2 id=project"25">Conştientizare Cancer</h2>
-Leo invita doctori specialiştiin cancer din Marea Britanie sa vna şi sa ofere o sesiune de conştientizare de cancer şi cancer paliativ pentru doctorii şi asistentele din Egipt.
 
 ### Obiective
 Sa ofere informaţii doctorilor şi asistentelor din Egipt.
@@ -586,7 +562,6 @@ Vlad
 ### Data
 10/3/2012 13:19:27
 <h2 id=project"26">Ziua cancerului la copii</h2>
-Leo viziteaza copiii bolnavi de cancerintr-unul dintre cele mai mari spitale pentru copiii bolnavi de cancer din lume,in Cairo.
 
 ### Obiective
 Sa petrecem timp cu copiii din spital.
@@ -612,7 +587,6 @@ Vlad
 ### Data
 10/3/2012 13:24:18
 <h2 id=project"27">Îngrijire Dentala pentru Orfani</h2>
-Leo viziteaza câteva orfelinate şi verifica dantura orfanilor, le dau sfaturi stomatologice şi cadouri constândin periuţe şi paste de dinţi.
 
 ### Obiective
 Servici Comunitar
@@ -638,7 +612,6 @@ Vlad
 ### Data
 10/3/2012 13:29:07
 <h2 id=project"28">Cautarea oamenilor disparuţi</h2>
-Aceasta activitate are scop de a readuce oameniiimpreuna, mai ales pe ceiin vârsta, care au pierdut contactul cu familiile lor.
 
 ### Obiective
 Readucerea familiilorimpreuna.
@@ -661,7 +634,6 @@ Vlad
 ### Data
 10/3/2012 14:26:14
 <h2 id=project"29">Anul Nou pentru copiii din Spitalul Municipal Moscova nr. 20, Dr. Rashalya</h2>
-Sarbatorirea pentru copii care nu au posibilitatea sa sarbatoreasca (copii ţintuiţi la pat de rani sau fracturi).
 
 ### Obiective
 Activitate sociala.
@@ -684,7 +656,6 @@ Vlad
 ### Data
 10/3/2012 14:32:59
 <h2 id=project"30">Concurs de pictura pentru copii cu disabilitaţi</h2>
-Copiii picteaza lumea pe care şi-o doresc.
 
 ### Obiective
 Activitate sociala.
@@ -706,4 +677,4 @@ Activitati sociale
 Vlad
 ### Data
 10/3/2012 14:34:55
-</body></html>
+
