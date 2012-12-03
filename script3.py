@@ -1,6 +1,6 @@
 import csv
 
-info = ["Nume", "Obiective", "Grup țintă", "Numar de persoane", "Materiale necesare", "Resurse financiare", "Organizator", "Info Suplimentare", "Categorie", "Translator", "Data"]
+info = ["Descriere", "Obiective", "Grup țintă", "Numar de persoane", "Materiale necesare", "Resurse financiare", "Organizator", "Info Suplimentare", "Categorie", "Translator", "Data"]
 
 content = []
 
@@ -16,7 +16,7 @@ with open('orig.csv', newline='', encoding='utf-8') as f:
             for j in range(1, 12):
                 content[-1].append(row[j])
             content[-1].append(row[0])
-
+'''
             page += '<h2 id=project"{0}">{1}</h2>\n'.format(i, row[1])
             page += '\n'
             page += "### Obiective\n"
@@ -39,5 +39,19 @@ with open('orig.csv', newline='', encoding='utf-8') as f:
             page += row[11] + "\n"
             page += "### Data\n"
             page += row[0] + "\n"
+'''
+
+for i, val in enumerate(content):
+    page += "* [{0}](#{1})\n".format(val[0], "project" + str(i))
+page += '\n\n'
+
+for i, proj in enumerate(content):
+    page += '<div style="page-break-after: always;"><span style="display: none;">&nbsp;</span></div> <h2 id="project{0}">{1}</h2>\n'.format(i, proj[0])
+    page += "<table>"
+    iterproj = iter(proj)
+    next(iterproj)
+    for j, row in enumerate(iterproj):
+        page += '<tr><td class="first">{0}</td><td>{1}</td></tr>'.format(info[j], row)
+    page += "</table>\n\n"
 
 print(page)
