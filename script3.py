@@ -6,7 +6,7 @@ content = []
 
 page = "# Manual Leo\n\n"
 
-with open('orig.csv', newline='', encoding='utf-8') as f:
+with open('second.csv', newline='', encoding='utf-8') as f:
     reader = csv.reader(f)
     i = 0
     for row in reader:
